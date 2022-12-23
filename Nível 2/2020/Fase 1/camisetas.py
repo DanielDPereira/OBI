@@ -14,8 +14,6 @@ P = int(input())
 #Camisetas médias produzidas
 M = int(input())
 
-
-
 if P >= escolhidos1 and M >= escolhidos2:
     print("S")
 else:
