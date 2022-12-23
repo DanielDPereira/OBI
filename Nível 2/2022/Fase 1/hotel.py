@@ -14,3 +14,5 @@ if N>15:
     preço = (32-N)*(D+A*14)
 
 print(preço)
+
+#By Daniel Dias Pereira

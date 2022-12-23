@@ -18,3 +18,5 @@ if b>=60:
 money = aa+bb
 
 print(money)
+
+#By Daniel Dias Pereira
