@@ -14,3 +14,4 @@ for i in range(N):
 print(sum(list))
 
 #By Daniel Dias Pereira
+:)
