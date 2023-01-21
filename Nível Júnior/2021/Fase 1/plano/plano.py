@@ -11,3 +11,5 @@ Quota = X * (N+1)
 resultado = Quota - sum(Gastos)
 
 print(resultado)
+
+#By Daniel Dias Pereira
