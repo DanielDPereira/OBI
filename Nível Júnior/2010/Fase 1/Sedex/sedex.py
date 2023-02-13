@@ -1,15 +1,19 @@
 N = int(input())
 ALP = input()
 
-ALP_list = []
-ALP_list.append(ALP.split(" "))
-print(ALP_list)
+list = []
 
-A = int(ALP_list[0])
-L = int(ALP_list[1])
-P = int(ALP_list[2])
+list.append(ALP.split(" "))
 
-if A and L and P >= N:
+A = list[0][0]
+L = list[0][1]
+P = list[0][2]
+
+A = int(A)
+L = int(L)
+P = int(P)
+
+if A and L and P < N:
     print("S")
 else:
     print("N")
