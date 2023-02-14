@@ -12,9 +12,7 @@ P = list[0][2]
 A = int(A)
 L = int(L)
 P = int(P)
-print("valor de A é  :", A)
-print("valor de L é  :", L)
-print("valor de P é  :", P)
+
 if A <= N:
     if L <= N:
         if P <= N:
