@@ -12,8 +12,18 @@ P = list[0][2]
 A = int(A)
 L = int(L)
 P = int(P)
-
-if A and L and P < N:
-    print("S")
+print("valor de A é  :", A)
+print("valor de L é  :", L)
+print("valor de P é  :", P)
+if A <= N:
+    if L <= N:
+        if P <= N:
+            print("S")
+        else:
+            print("N")
+    else:
+        print("N")
 else:
     print("N")
+
+input()
