@@ -26,4 +26,4 @@ if A <= N:
 else:
     print("N")
 
-input()
+#Resolvido por Daniel e Frepe
