@@ -1,3 +1,14 @@
 N = int(input())
 
-for i in range(N):  
+list = []
+dias = 0
+soma_acessos = 0
+
+for i in range(N):
+    list.append(int(input()))
+
+while soma_acessos <= 1000000:
+    soma_acessos = soma_acessos + list[dias]
+    dias += 1
+    
+print(dias)
