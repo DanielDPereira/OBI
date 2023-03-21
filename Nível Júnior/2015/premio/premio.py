@@ -7,7 +7,7 @@ soma_acessos = 0
 for i in range(N):
     list.append(int(input()))
 
-while soma_acessos <= 1000000:
+while soma_acessos < 999999:
     soma_acessos = soma_acessos + list[dias]
     dias += 1
     
