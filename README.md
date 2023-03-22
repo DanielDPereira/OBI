@@ -2,7 +2,7 @@
  Estudos voltados para a Olímpiada Brasileira de Informática.
  
  # OBJETIVO
- Platinar todos os exercícios que já caíram nessa olímpiada em todos os níveis, anos e linguagens aceitas pela OBI.
+ Platinar todos os exercícios que já caíram na OBI em todos os anos, níveis e linguagens aceitas pela OBI.
  
  # LINGUAGENS
  <div style="display: inline_block">
