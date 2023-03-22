@@ -4,7 +4,7 @@
  # OBJETIVO
  Platinar todos os exercícios que já caíram na modalidade programação da OBI em todos os anos, níveis e linguagens aceitas pela OBI.
  
- # LINGUAGENS
+ # LINGUAGENS ACEITAS
  <div style="display: inline_block">
   <img align="center" alt="C" height="30" width="40" src="https://armandohage.pro.br/wp-content/uploads/uploads/2008/03/pascal_2018.png">&nbsp;
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
