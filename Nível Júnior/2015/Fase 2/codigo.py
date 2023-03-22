@@ -11,5 +11,4 @@ for i in range(len(sequencia_list)-2):
             if sequencia_list[i+2] == "0":
                 X = X + 1
     
-print(sequencia_list)
 print(X)
