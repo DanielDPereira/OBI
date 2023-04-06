@@ -20,6 +20,6 @@ elif Y == 3:
 elif Y == 2:
     print("3")
 elif Y == 1:
-    print("1")
-elif Y == 0:
+    print("3")
+else:
     print("-1")
