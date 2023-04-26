@@ -1,12 +1,3 @@
-{
-
-                            Online Pascal Compiler.
-                Code, Compile, Run and Debug Pascal program online.
-Write your code in this editor and press "Run" button to execute it.
-
-}
-
-
 program Hello;
 
 var M, N, Diferenca, Orlando: integer;
