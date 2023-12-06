@@ -6,4 +6,4 @@ for i in range(3):
 
 print(X[1])
 
-#By @danielDPereira.dev
+#By Daniel Dias Pereira
